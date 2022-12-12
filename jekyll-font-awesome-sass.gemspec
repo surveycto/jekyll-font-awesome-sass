@@ -18,8 +18,8 @@ Gem::Specification.new do |spec|
   end
   spec.require_paths = ['lib']
 
-  spec.add_dependency 'jekyll', '>= 2.5', '< 4.0'
-  spec.add_dependency 'font-awesome-sass', '>=4'
+  spec.add_dependency 'jekyll', '>= 2.5', '< 5.0'
+  spec.add_dependency 'font-awesome-sass', '>=6'
 
   spec.add_development_dependency 'bundler', '~> 1.11'
   spec.add_development_dependency 'rake', '~> 10.0'
